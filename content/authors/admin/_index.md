@@ -34,8 +34,8 @@ profiles:
   #  url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/CornelisSchwenk
-  #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=Qc99ieMAAAAJ&hl=de
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
 
