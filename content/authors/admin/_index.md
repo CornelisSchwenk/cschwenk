@@ -45,7 +45,7 @@ education:
     date_start: 2022-01-01
     date_end: 2025-10-01
     summary: |
-      About my thesi
+      Research in clouds and dynamics using advanced numerical modeling, high-performance computing and large-scale data analysis
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -164,4 +164,4 @@ languages:
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently doing xyz
+I am a final-year PhD student in atmospheric physics at the University of Mainz, specializing in numerical modeling, high-performance computing, and large-scale atmospheric data analysis. My passion is combating climate change, advocating for sustainable energy and practices, and striving for a more ethical, environmentally responsible future.
